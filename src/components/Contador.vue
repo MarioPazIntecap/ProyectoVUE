@@ -24,11 +24,9 @@ const decrementar = () =>{
 <style scoped>
 p {
   color: red;
-  text-align: center;
 }
 
 h1 {
   color: green;
-  text-align: center;
 }
 </style>
